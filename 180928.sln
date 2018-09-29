@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQRepetition", "LINQRepet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{66A8AABB-647E-4A0A-A56C-42A99657DB6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp.Tests", "BankApp.Tests\BankApp.Tests.csproj", "{1D5E5C23-C29A-449F-9350-5694871BDF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{66A8AABB-647E-4A0A-A56C-42A99657DB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66A8AABB-647E-4A0A-A56C-42A99657DB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66A8AABB-647E-4A0A-A56C-42A99657DB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5E5C23-C29A-449F-9350-5694871BDF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5E5C23-C29A-449F-9350-5694871BDF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5E5C23-C29A-449F-9350-5694871BDF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5E5C23-C29A-449F-9350-5694871BDF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
